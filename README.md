@@ -1,2 +1,2 @@
 # testrepo
-goals
+total goals
